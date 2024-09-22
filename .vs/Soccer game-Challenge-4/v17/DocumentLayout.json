@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\Unity\\Unity\\Soccer game-Challenge-4\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|d:\\unity\\unity\\soccer game-challenge-4\\assets\\changes\\0.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\changes\\0.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Unity\\Unity\\Soccer game-Challenge-4\\Assets\\Challenge 4\\Scripts\\NewBehaviourScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Challenge 4\\Scripts\\NewBehaviourScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{51869E0C-9C21-7A57-8FC9-08C3C5AB7DE7}|Assembly-CSharp.csproj|D:\\Unity\\Unity\\Soccer game-Challenge-4\\assets\\challenge 4\\scripts\\playercontrollerx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{51869E0C-9C21-7A57-8FC9-08C3C5AB7DE7}|Assembly-CSharp.csproj|solutionrelative:assets\\challenge 4\\scripts\\playercontrollerx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,7 +23,7 @@
       "RelativeMoniker": "D:0:0:{51869E0C-9C21-7A57-8FC9-08C3C5AB7DE7}|Assembly-CSharp.csproj|solutionrelative:assets\\challenge 4\\scripts\\enemyx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{51869E0C-9C21-7A57-8FC9-08C3C5AB7DE7}|Assembly-CSharp.csproj|d:\\unity\\unity\\soccer game-challenge-4\\assets\\challenge 4\\scripts\\spawnmanagerx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{51869E0C-9C21-7A57-8FC9-08C3C5AB7DE7}|Assembly-CSharp.csproj|D:\\Unity\\Unity\\Soccer game-Challenge-4\\assets\\challenge 4\\scripts\\spawnmanagerx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{51869E0C-9C21-7A57-8FC9-08C3C5AB7DE7}|Assembly-CSharp.csproj|solutionrelative:assets\\challenge 4\\scripts\\spawnmanagerx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -26,11 +34,35 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "0.cs",
+              "DocumentMoniker": "D:\\Unity\\Unity\\Soccer game-Challenge-4\\Assets\\Changes\\0.cs",
+              "RelativeDocumentMoniker": "Assets\\Changes\\0.cs",
+              "ToolTip": "D:\\Unity\\Unity\\Soccer game-Challenge-4\\Assets\\Changes\\0.cs",
+              "RelativeToolTip": "Assets\\Changes\\0.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T15:54:28.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NewBehaviourScript.cs",
+              "DocumentMoniker": "D:\\Unity\\Unity\\Soccer game-Challenge-4\\Assets\\Challenge 4\\Scripts\\NewBehaviourScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Challenge 4\\Scripts\\NewBehaviourScript.cs",
+              "ToolTip": "D:\\Unity\\Unity\\Soccer game-Challenge-4\\Assets\\Challenge 4\\Scripts\\NewBehaviourScript.cs",
+              "RelativeToolTip": "Assets\\Challenge 4\\Scripts\\NewBehaviourScript.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T15:51:56.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "SpawnManagerX.cs",
               "DocumentMoniker": "D:\\Unity\\Unity\\Soccer game-Challenge-4\\Assets\\Challenge 4\\Scripts\\SpawnManagerX.cs",
               "RelativeDocumentMoniker": "Assets\\Challenge 4\\Scripts\\SpawnManagerX.cs",
@@ -38,12 +70,11 @@
               "RelativeToolTip": "Assets\\Challenge 4\\Scripts\\SpawnManagerX.cs",
               "ViewState": "AQIAAAoAAADAl5mZmVkhwBYAAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-22T13:05:33.881Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-22T13:05:33.881Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "RotateCameraX.cs",
               "DocumentMoniker": "D:\\Unity\\Unity\\Soccer game-Challenge-4\\Assets\\Challenge 4\\Scripts\\RotateCameraX.cs",
               "RelativeDocumentMoniker": "Assets\\Challenge 4\\Scripts\\RotateCameraX.cs",
@@ -51,25 +82,23 @@
               "RelativeToolTip": "Assets\\Challenge 4\\Scripts\\RotateCameraX.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-22T13:05:29.197Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-22T13:05:29.197Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "PlayerControllerX.cs",
               "DocumentMoniker": "D:\\Unity\\Unity\\Soccer game-Challenge-4\\Assets\\Challenge 4\\Scripts\\PlayerControllerX.cs",
               "RelativeDocumentMoniker": "Assets\\Challenge 4\\Scripts\\PlayerControllerX.cs",
               "ToolTip": "D:\\Unity\\Unity\\Soccer game-Challenge-4\\Assets\\Challenge 4\\Scripts\\PlayerControllerX.cs",
               "RelativeToolTip": "Assets\\Challenge 4\\Scripts\\PlayerControllerX.cs",
-              "ViewState": "AQIAABAAAABAmZmZmZkVwB8AAAAjAAAA",
+              "ViewState": "AQIAAA8AAABAmZmZmZkVwB8AAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-22T12:57:37.965Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-22T12:57:37.965Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "EnemyX.cs",
               "DocumentMoniker": "D:\\Unity\\Unity\\Soccer game-Challenge-4\\Assets\\Challenge 4\\Scripts\\EnemyX.cs",
               "RelativeDocumentMoniker": "Assets\\Challenge 4\\Scripts\\EnemyX.cs",
@@ -77,8 +106,7 @@
               "RelativeToolTip": "Assets\\Challenge 4\\Scripts\\EnemyX.cs",
               "ViewState": "AQIAAAMAAAAY//////8gwAUAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-22T12:53:23.037Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-22T12:53:23.037Z"
             }
           ]
         }
